@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610745547 source:c:\users\£ucja\desktop\algorytmy\projekt2\projekt 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<time.h>
+	<iomanip>
+	<algorithm>
+	<time.h>
+	<ctime>
+	<chrono>
+	<string>
+	<vector>
+

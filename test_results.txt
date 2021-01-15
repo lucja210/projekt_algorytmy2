@@ -1,0 +1,20 @@
+                                   LICZBA TESTOW: 3
+
+TEST NR 1
+Rozmiar tablicy: 10000
+                            Sekundy    Milisekundy    Nanosekundy
+         Gnome sort:              0            124         380400
+        Bucket sort:              0             35         792900
+
+TEST NR 2
+Rozmiar tablicy: 20000
+                            Sekundy    Milisekundy    Nanosekundy
+         Gnome sort:              0            506         385600
+        Bucket sort:              0            125          22200
+
+TEST NR 3
+Rozmiar tablicy: 30000
+                            Sekundy    Milisekundy    Nanosekundy
+         Gnome sort:              1            118         797400
+        Bucket sort:              0            273         641100
+
